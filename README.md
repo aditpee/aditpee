@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Muhammad Aditya Pratama, a passionate frontend developer focused on crafting user-friendly and responsive web applications. Why I passionate with frontend developer, because I like graphic design and I like logic in programming. I think frontend developers perfectly blend what I love.
+I'm Muhammad Aditya Pratama, a passionate frontend developer focused on crafting user-friendly and responsive web applications. Why I passionate with frontend developer, because I like graphic design and I like logic in programming. I think frontend developers perfectly blend what I like.
 
 ## Skills
 
@@ -18,45 +18,24 @@ I'm Muhammad Aditya Pratama, a passionate frontend developer focused on crafting
 
 Here are some of the projects I've worked on:
 
-1. **Project Name** - Brief description of the project.
-   - Tech Stack: HTML, CSS, JavaScript, React
-   - [Link to Project](#)
-   - [Link to Repository](#)
+1. **Weather Web** - Simple Weather app with simple and modern design.
+   - Tech Stack: HTML, SCSS, JavaScript, EJS, Node.js
+   - [Link to Project](https://weather-web-9uot.onrender.com/)
 
-2. **Project Name** - Brief description of the project.
-   - Tech Stack: HTML, CSS, JavaScript, Vue.js
-   - [Link to Project](#)
-   - [Link to Repository](#)
+2. **Satsune Website** - T-shirt website static with react.
+   - Tech Stack: HTML, SCSS, JavaScript, React.js
+   - [Link to Project](https://satsune.vercel.app/)
 
-3. **Project Name** - Brief description of the project.
+3. **Yourlists** - todo app with vanilla javascript.
    - Tech Stack: HTML, CSS, JavaScript
-   - [Link to Project](#)
-   - [Link to Repository](#)
-
-## My Skills
-
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Vue.js, Bootstrap, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, Adobe XD, Figma
-- **Others:** Responsive Web Design, UI/UX Design Principles
+   - [Link to Project](https://yourlist-todo.vercel.app/)
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via [Email](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile).
-- 🌐 Check out my portfolio website: [Your Portfolio Website](https://www.yourwebsite.com).
-
-## Let's Connect
-
-Connect with me on social media:
-
-- [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Dev.to](https://dev.to/yourusername)
+- 📫 Feel free to reach out to me via [Email](mailto:youremail@example.com) or [WhatsApp](https://www.linkedin.com/in/yourprofile).
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities!
 
-Happy coding! 💻✨
 
 <!--
 **aditpee/aditpee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
