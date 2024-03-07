@@ -21,14 +21,17 @@ Here are some of the projects I've worked on:
 1. **Weather Web** - Simple Weather app with simple and modern design.
    - Tech Stack: HTML, SCSS, JavaScript, EJS, Node.js
    - [Link to Project](https://weather-web-9uot.onrender.com/)
+   - [Link to Repository](https://github.com/aditpee/weather-web)
 
 2. **Satsune Website** - T-shirt website static with react.
    - Tech Stack: HTML, SCSS, JavaScript, React.js
    - [Link to Project](https://satsune.vercel.app/)
+   - [Link to Repository](https://github.com/aditpee/satsune-web)
 
 3. **Yourlists** - todo app with vanilla javascript.
    - Tech Stack: HTML, CSS, JavaScript
    - [Link to Project](https://yourlist-todo.vercel.app/)
+   - [Link to Repository](https://github.com/aditpee/yourlist-todo-app)
 
 ## Get in Touch
 
