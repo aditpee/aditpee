@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via [Email](mailto:youremail@example.com) or [WhatsApp](https://www.linkedin.com/in/yourprofile).
+- 📫 Feel free to reach out to me via [Email](mailto:adityaprtmaa00@gmail.com) or [WhatsApp](https://wa.me/6285802701648).
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities!
 
